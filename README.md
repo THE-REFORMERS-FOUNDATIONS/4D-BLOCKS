@@ -1,2 +1,2 @@
-# 4D-BLOCKS
-First eight distinct 4D Genesis Blocks
+# 4D BLOCKS
+First eight distinct 4D genesis blocks.
